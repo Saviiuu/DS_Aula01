@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Runtime.ConstrainedExecution;
 
+// MANOEL GOMES
+
 namespace Aula01Variados
 {
     internal class Program
